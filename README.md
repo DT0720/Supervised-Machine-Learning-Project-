@@ -5,7 +5,7 @@ Supervised machine learning on the **PHFood Brazil** dataset. The project covers
 1. **Regression:** predict `Food Production (tons)` for a food item in a given Brazilian state and year.
 2. **Classification:** predict whether a food item is `Healthy` (1) or not (0), based on its nutrient profile.
 
-> **Course:** CSE445 ( A group of four(4) members )
+> **Course:** CSE445 (A group of four(4) members )
 
 ---
 
